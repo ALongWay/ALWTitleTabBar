@@ -1,0 +1,14 @@
+use_frameworks!
+
+target 'ALWTitleTabBar_Example' do
+  pod 'ALWTitleTabBar', :path => '../'
+
+  target 'ALWTitleTabBar_Tests' do
+    inherit! :search_paths
+
+    pod 'Specta'
+  pod 'Expecta'
+  pod 'FBSnapshotTestCase'
+  pod 'Expecta+Snapshots'
+  end
+end
