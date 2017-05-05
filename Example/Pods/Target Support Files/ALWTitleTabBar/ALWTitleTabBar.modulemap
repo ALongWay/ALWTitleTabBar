@@ -1,0 +1,6 @@
+framework module ALWTitleTabBar {
+  umbrella header "ALWTitleTabBar-umbrella.h"
+
+  export *
+  module * { export * }
+}

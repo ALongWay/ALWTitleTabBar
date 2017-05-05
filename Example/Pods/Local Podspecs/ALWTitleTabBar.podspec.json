@@ -1,0 +1,22 @@
+{
+  "name": "ALWTitleTabBar",
+  "version": "0.1.0",
+  "summary": "A short description of ALWTitleTabBar.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lisong/ALWTitleTabBar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lisong": "lisong@douyu.tv"
+  },
+  "source": {
+    "git": "https://github.com/lisong/ALWTitleTabBar.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ALWTitleTabBar/Classes/**/*"
+}
