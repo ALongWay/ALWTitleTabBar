@@ -22,7 +22,7 @@ pod "ALWTitleTabBar"
 
 ## Author
 
-lisong, lisong@douyu.tv
+lisong, 370381830@qq.com
 
 ## License
 
