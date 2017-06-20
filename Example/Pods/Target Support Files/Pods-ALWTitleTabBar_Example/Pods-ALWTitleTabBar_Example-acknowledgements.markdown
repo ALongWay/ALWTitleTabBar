@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## ALWTitleTabBar
 
-Copyright (c) 2017 lisong <lisong@douyu.tv>
+Copyright (c) 2017 lisong <370381830@qq.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
